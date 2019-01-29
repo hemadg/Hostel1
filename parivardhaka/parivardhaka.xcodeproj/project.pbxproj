@@ -14,6 +14,7 @@
 		88FF57B322001B4B00BAB21C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88FF57B122001B4B00BAB21C /* LaunchScreen.storyboard */; };
 		88FF57BE22001B4B00BAB21C /* parivardhakaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FF57BD22001B4B00BAB21C /* parivardhakaTests.swift */; };
 		88FF57C922001B4B00BAB21C /* parivardhakaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FF57C822001B4B00BAB21C /* parivardhakaUITests.swift */; };
+		88FF57D722002A3C00BAB21C /* allot_board.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88FF57D622002A3C00BAB21C /* allot_board.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		88FF57C422001B4B00BAB21C /* parivardhakaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = parivardhakaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88FF57C822001B4B00BAB21C /* parivardhakaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parivardhakaUITests.swift; sourceTree = "<group>"; };
 		88FF57CA22001B4B00BAB21C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88FF57D622002A3C00BAB21C /* allot_board.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = allot_board.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				88FF57A822001B4B00BAB21C /* AppDelegate.swift */,
 				88FF57AA22001B4B00BAB21C /* ViewController.swift */,
 				88FF57AC22001B4B00BAB21C /* Main.storyboard */,
+				88FF57D622002A3C00BAB21C /* allot_board.storyboard */,
 				88FF57AF22001B4B00BAB21C /* Assets.xcassets */,
 				88FF57B122001B4B00BAB21C /* LaunchScreen.storyboard */,
 				88FF57B422001B4B00BAB21C /* Info.plist */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88FF57D722002A3C00BAB21C /* allot_board.storyboard in Resources */,
 				88FF57B322001B4B00BAB21C /* LaunchScreen.storyboard in Resources */,
 				88FF57B022001B4B00BAB21C /* Assets.xcassets in Resources */,
 				88FF57AE22001B4B00BAB21C /* Main.storyboard in Resources */,
